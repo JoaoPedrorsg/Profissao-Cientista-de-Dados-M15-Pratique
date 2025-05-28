@@ -27,6 +27,8 @@ Seaborn
 
 Plotly Express
 
+Numpy
+
 ## 📬 Contato
 📧 joao.prsg@outlook.com
 
